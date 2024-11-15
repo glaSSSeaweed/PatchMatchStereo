@@ -1,0 +1,5 @@
+﻿  pms_propagation.cpp
+D:\code\PatchMatchStereo\PatchMatchStereo\pms_types.h(152,28): warning C4244: 'initializing': conversion from 'double' to 'float32', possible loss of data
+D:\code\PatchMatchStereo\PatchMatchStereo\pms_types.h(152,22): warning C4244: 'initializing': conversion from 'double' to 'const float32', possible loss of data
+D:\code\PatchMatchStereo\PatchMatchStereo\cost_computor.hpp(215,15): warning C4244: '+=': conversion from 'double' to 'float32', possible loss of data
+  PatchMatchStereo-v19.vcxproj -> D:\code\PatchMatchStereo\x64\Debug\PatchMatchStereo-v19.exe
